@@ -9,7 +9,4 @@ class UnicornTest < Minitest::Test
 
   def test_something_else
   end
-
-  def test_yet_another_thing
-  end
 end
