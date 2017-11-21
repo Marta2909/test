@@ -6,4 +6,7 @@ require 'minitest/pride'
 class UnicornTest < Minitest::Test
   def test_comething
   end
+
+  def test_something_else
+  end
 end
